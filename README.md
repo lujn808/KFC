@@ -16,19 +16,19 @@
 ### vmess
 
 ```shell
-wget -N https://raw.githubusercontent.com/bhqz/Alwaysdata-vmess-vless-trojan-/main/vmess.sh && chmod +x ./vmess.sh
+wget -N https://github.com/lujn808/KFC/main/vmess.sh && chmod +x ./vmess.sh
 ```
 
 ### vless
 
 ```shell
-wget -N https://raw.githubusercontent.com/bhqz/Alwaysdata-vmess-vless-trojan-/main/vless.sh && chmod +x ./vless.sh
+wget -N https://github.com/lujn808/KFC/main/vless.sh && chmod +x ./vless.sh
 ```
 
 ### trojan
 
 ```shell
-wget -N https://raw.githubusercontent.com/bhqz/Alwaysdata-vmess-vless-trojan-/main/trojan.sh && chmod +x ./trojan.sh
+wget -N https://github.com/lujn808/KFC/main/trojan.sh && chmod +x ./trojan.sh
 ```
 
 2. 修改网站空间配置
